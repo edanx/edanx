@@ -1,4 +1,14 @@
-### Hi there 👋
+# Eliseu Dantas
+
+Hello, I'm Eliseu Dantas 🙂. I'm a Software Engineer with over 10 years of experience in building scalable, secure, fault-tolerant, and reliable enterprise-grade applications. The idea of ​​creating solutions to solve real problems, helping companies, teams and people to prosper in doing so is something that really motivates.
+
+My current topics of interest:
+
+- Systems Design, Software Architecture.
+- SRE, Application Security, OWASP.
+- Kubernetes, Docker.
+- Cloud cost optimizations.
+- AWS, Azure, Digital Ocean.
 
 <!--
 **edanx/edanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
