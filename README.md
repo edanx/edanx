@@ -1,6 +1,6 @@
 # Eliseu Dantas
 
-Hello, I'm Eliseu Dantas 🙂. I'm a Software Engineer with over 10 years of experience in building scalable, secure, fault-tolerant, and reliable enterprise-grade applications. The idea of ​​creating solutions to solve real problems, helping companies, teams and people to prosper in doing so is something that really motivates.
+Hello, I'm Eliseu Dantas 🙂. I'm a Software Engineer with over 10 years of experience in building scalable, secure, fault-tolerant, and reliable enterprise-grade applications. The idea of ​​creating solutions to solve real problems, helping companies, teams and people to prosper in doing so is something that really motivates me.
 
 My current topics of interest:
 
